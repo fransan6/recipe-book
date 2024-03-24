@@ -16,9 +16,11 @@ def generate_markdown(scraper):
             markdown += f"- {ingredient}\n"
         markdown += "\n"
 
-    if scraper.instructions():
+    if scraper.instructions_list():
         markdown += "## Instructions:\n\n"
-        markdown += scraper.instructions()
+        for instruction in scraper.instructions_list():
+            markdown += f"- {instruction}\n\n"
+        markdown += "\n"
 
     return markdown
 
