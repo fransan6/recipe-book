@@ -3,6 +3,7 @@
 
 from recipe_scrapers import scrape_me
 import sys
+import os
 
 def generate_markdown(scraper):
     markdown = f"# {scraper.title()}\n\n"
@@ -25,9 +26,12 @@ def generate_markdown(scraper):
     return markdown
 
 def write_to_file(recipe, filename):
-    with open(filename, "w") as file:
-        file.write(recipe)
-    print(f"Recipe: '{filename}' has been generated")
+    if os.path.exists(filename):
+        print("Recipe file already exists")
+    else:
+        with open(filename, "w") as file:
+            file.write(recipe)
+        print(f"Recipe: '{filename}' has been generated")
 
 recipe_url = sys.argv[1]
 scraper = scrape_me(f"https://www.gousto.co.uk/cookbook/{recipe_url}")
