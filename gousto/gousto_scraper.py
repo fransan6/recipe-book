@@ -1,3 +1,6 @@
+# note the scraper isn't perfect for gousto so some ingredients need to be removed
+# in addition, remember that ingredients come in sachets so '1 black mustard seeds' indicates a sachet
+
 from recipe_scrapers import scrape_me
 import sys
 
