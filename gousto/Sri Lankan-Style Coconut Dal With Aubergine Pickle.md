@@ -6,16 +6,13 @@
 
 - 1 black mustard seeds
 - 1 tbsp curry powder
-- 0 white basmati rice
 - 1 tsp ground turmeric
 - 15g fresh root ginger
 - 11g vegetable stock mix
-- 0 vegetable stock mix
 - 130g basmati rice
 - 1 green chilli
 - 15ml cider vinegar
 - 50g solid creamed coconut
-- 0 solid creamed coconut
 - 20g coriander
 - 3 shallots
 - 3 garlic cloves
