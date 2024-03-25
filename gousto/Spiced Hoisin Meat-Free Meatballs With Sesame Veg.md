@@ -17,6 +17,7 @@
 - 80g spinach
 - 3 spring onions
 - 2 garlic cloves
+- sugar
 
 ## Instructions:
 

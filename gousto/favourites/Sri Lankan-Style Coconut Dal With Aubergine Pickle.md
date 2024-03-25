@@ -18,6 +18,7 @@
 - 3 garlic cloves
 - 1 aubergine
 - 100g red lentils
+- sugar
 
 ## Instructions:
 

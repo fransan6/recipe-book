@@ -37,7 +37,7 @@
   Add the chopped ginger, chopped garlic and garam masala and cook for a further 3 min
 
 - Rinse the red lentils in a sieve under cold water
-  Add the red lentils and green lentils (no need to drain) to the softened onion
+  Add the red lentils and green lentils to the softened onion
   Dissolve the vegetable stock mix in 350ml [550ml] boiled water
   Add the vegetable stock to the lentils and cook for 15-20 min, stirring occasionally, until all the water is absorbed and the lentils are tender and porridge-like in consistency
 

@@ -17,6 +17,7 @@
 - 280g plain tofu
 - 1 spring onion
 - 2 garlic cloves
+- sugar
 
 ## Instructions:
 
