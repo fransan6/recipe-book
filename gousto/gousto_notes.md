@@ -1,3 +1,4 @@
+- Using [github.com/hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers)
 - Note the scraper isn't perfect for Gousto so some ingredients need to be removed
 - In addition, remember that ingredients come in sachets so '1 black mustard seeds' indicates a sachet
 - Each portion is for two servings. [] use in the instructions denote sizes for 3 or 4 servings
