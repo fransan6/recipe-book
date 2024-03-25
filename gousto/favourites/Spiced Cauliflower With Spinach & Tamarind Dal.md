@@ -45,3 +45,5 @@
 
 - Serve the spiced cauliflower over the spinach & tamarind dal
   Sprinkle over the chopped toasted almonds
+
+**URL:** https://www.gousto.co.uk/cookbook/vegan-recipes/spiced-cauliflower-spinach-tamarind-dal

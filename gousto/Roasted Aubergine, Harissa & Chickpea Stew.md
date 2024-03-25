@@ -52,3 +52,5 @@
 
 - Serve the roasted aubergine, harissa & chickpea stew with the spinach bulgur to the side
   Garnish with the toasted pine nut & seed mix, chopped mint and reserved mint leaves
+
+**URL:** https://www.gousto.co.uk/cookbook/vegan-recipes/roasted-aubergine-harissa-chickpea-stew

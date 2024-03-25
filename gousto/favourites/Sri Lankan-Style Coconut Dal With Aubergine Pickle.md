@@ -53,3 +53,5 @@
 
 - Serve the Sri Lankan-style coconut dal with the basmati rice to the side
   Top with the aubergine pickle, garnish with the reserved coriander leaves and season with a grind of black pepper
+
+**URL:** https://www.gousto.co.uk/cookbook/vegan-recipes/sri-lankan-coconut-dal-with-aubergine-pickle

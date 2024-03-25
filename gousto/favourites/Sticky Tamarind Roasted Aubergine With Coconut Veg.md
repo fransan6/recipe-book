@@ -51,3 +51,5 @@
 
 - Serve the sticky tamarind roasted aubergine over the basmati rice
   Serve the coconut veg to the side and drizzle any remaining coconut sauce from the pan all over
+
+**URL:**: https://www.gousto.co.uk/cookbook/recipes/sticky-tamarind-roasted-aubergine-with-coconut-veg

@@ -43,3 +43,5 @@
 
 - Serve the spicy hoisin meat-free mince with the sesame greens and cooked rice to the side
   Garnish with the reserved chilli rounds
+
+**URL:** https://www.gousto.co.uk/cookbook/recipes/spicy-hoisin-meat-free-mince-with-ginger-sesame-veg

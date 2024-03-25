@@ -48,3 +48,5 @@
 
 - Serve the two-lentil dal in bowls topped with the spiced aubergine
   Garnish with the remaining chopped coriander and a dollop of the remaining cultured coconut
+
+**URL:** https://www.gousto.co.uk/cookbook/vegan-recipes/two-lentil-dal-spiced-aubergine

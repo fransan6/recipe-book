@@ -48,3 +48,5 @@
 - Serve the wholewheat noodles in deep bowls and pour the miso sesame ramen over the top
   Top with the pak choi, stir-fried tofu and sliced spring onion – this is your tantanmen-style stir-fried tofu ramen
   Drizzle the chilli oil all over
+
+**URL:** https://www.gousto.co.uk/cookbook/vegan-recipes/tantanmen-stir-fried-tofu-ramen-with-chilli-oil

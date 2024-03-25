@@ -44,3 +44,5 @@
 
 - Serve the cheesy gochujang potatoes with fried egg with the tangy slaw to the side
   Garnish with the chopped coriander and toasted sesame seeds
+
+**URL:** https://www.gousto.co.uk/cookbook/recipes/cheesy-gochujang-potatoes-fried-egg-and-tangy-slaw

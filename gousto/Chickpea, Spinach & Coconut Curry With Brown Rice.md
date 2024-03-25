@@ -43,3 +43,5 @@
 
 - Serve the chickpea, spinach & coconut curry over the brown rice
   Garnish with the nigella seeds
+
+**URL:** https://www.gousto.co.uk/cookbook/vegan-recipes/10-min-chickpea-spinach-coconut-curry
