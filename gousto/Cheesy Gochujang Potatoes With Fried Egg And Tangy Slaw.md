@@ -16,7 +16,7 @@
 - 1/2 cucumber
 - 2 spring onions
 
-- Replace suggested slaw with pickled (rice vinegar and sugar) cucumber and carrots, and a splash of sesame oil
+- **Replace suggested slaw with pickled (rice vinegar and sugar) cucumber and carrot, and a splash of sesame oil**
 
 ## Instructions:
 

@@ -4,6 +4,9 @@ from recipe_scrapers import scrape_me
 import sys
 import os
 
+base_url = "https://www.gousto.co.uk/cookbook/"
+recipe_url = sys.argv[1]
+
 def generate_markdown(scraper):
     markdown = f"# {scraper.title()}\n\n"
 
@@ -22,19 +25,20 @@ def generate_markdown(scraper):
             markdown += f"- {instruction}\n\n"
         markdown += "\n"
 
+    markdown += f"**URL:** {base_url}{recipe_url}"
+
     return markdown
 
 def write_to_file(recipe, filename):
-    if os.path.exists(filename):
+    favourites_folder = os.path.join("favourites/", filename)
+    if os.path.exists(filename) or os.path.exists(favourites_folder):
         print("Recipe file already exists")
     else:
         with open(filename, "w") as file:
             file.write(recipe)
         print(f"{filename} has been generated")
 
-recipe_url = sys.argv[1]
-scraper = scrape_me(f"https://www.gousto.co.uk/cookbook/{recipe_url}")
-
+scraper = scrape_me(f"{base_url}{recipe_url}")
 markdown_content = generate_markdown(scraper)
 
 cleaned_recipe_title = scraper.title().replace(":", " ")
